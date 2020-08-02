@@ -15,7 +15,7 @@ Link to full video : https://www.youtube.com/watch?v=5vY9zWx0pJU
  
 ## How to get the webapp running for you
  * Fork the repo 
- * Open [web-app-runner](https://github.com/TheLethargicOwl/Dog-Breed-Classification/blob/master/DogBreedStreamLit.ipynb.ipynb)
+ * Open [web-app-runner](https://github.com/TheLethargicOwl/Dog-Breed-Classification/blob/master/DogBreedStreamLit.ipynb)
  * Add the models in your Google drive from the list of important links (Use proper directories, in case of any changes edit line 69, 88, 120 & 122 of app.py with the new paths)
  * Run the web-app runner and get going 
 
