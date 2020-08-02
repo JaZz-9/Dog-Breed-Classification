@@ -3,7 +3,7 @@
 
 # Demo 
 <div align = "center" >
-<img src='https://github.com/TheLethargicOwl/Dog-Breed-Classification/images/demo.gif'/>
+<img src='https://github.com/TheLethargicOwl/Dog-Breed-Classification/blob/master/images/demo.gif'/>
 <br></br>
 Link to full video : https://www.youtube.com/watch?v=5vY9zWx0pJU
 </div>
